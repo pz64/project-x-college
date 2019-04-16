@@ -1,6 +1,6 @@
 # project-x-college
 
-One Paragraph of project description goes here
+This is the C++ Source code part of the college project.
 
 ## Character classes
 

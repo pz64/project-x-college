@@ -1,6 +1,6 @@
 # project-x-college
 
-This is the C++ Source code part of the college project.
+This is the C++ Source code part of the game-dev project.
 
 Project progress is updated [here in my instagram](https://www.instagram.com/pz64__)
 

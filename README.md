@@ -2,7 +2,7 @@
 
 This is the C++ Source code part of the college project.
 
-Project progress is updated ![here](https://www.instagram.com/pz64__)  
+Project progress is updated [here](https://www.instagram.com/pz64__)
 
 ## Character classes
 
